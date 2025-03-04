@@ -23,6 +23,30 @@ El proyecto se desarrolla a través de un Jupyter Notebook, donde se aplican té
 🔹 Prompts de Texto-Imagen: Para la generación de imágenes promocionales con DALL-E o herramientas alternativas.
 🔹 Comparación de Resultados: Evaluación de calidad y costo de generación de contenido.
 
+📊 Resultados y Comparaciones
+
+🔹 Comparación de respuestas generadas por diferentes estrategias de prompting.
+🔹 Análisis de costo-beneficio en el uso de la API.
+🔹 Reducción de consultas innecesarias para optimizar recursos.
+🔹 Evidencia de imágenes generadas en la carpeta images/.
+🔍 Conclusiones
+
+✅ La optimización de prompts mediante técnicas de Fast Prompting mejora la calidad del contenido generado.
+✅ El uso de ejemplos en los prompts (Few-shot) ofrece mejores resultados que los Zero-shot.
+✅ La reducción de consultas a la API optimiza costos sin afectar la calidad.
+✅ La personalización de prompts permite generar contenido más relevante para marketing digital.
+📜 Referencias
+
+📌 OpenAI API Documentation: https://platform.openai.com/docs/
+📌 DALL-E Documentation: https://platform.openai.com/docs/guides/images
+📌 NightCafe AI Tool: https://creator.nightcafe.studio/
+📌 Contribuciones
+
+Si deseas contribuir con mejoras, ¡eres bienvenido! Puedes:
+1️⃣ Hacer un fork del repositorio.
+2️⃣ Crear una rama nueva (git checkout -b feature-nueva).
+3️⃣ Hacer un pull request con tus cambios.
+
 🖥️ Tecnologías Utilizadas
 
 🧠 IA: OpenAI (ChatGPT, DALL-E)
