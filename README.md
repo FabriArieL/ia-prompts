@@ -23,19 +23,27 @@ El proyecto se desarrolla a través de un Jupyter Notebook, donde se aplican té
 🔹 Prompts de Texto-Imagen: Para la generación de imágenes promocionales con DALL-E o herramientas alternativas.
 🔹 Comparación de Resultados: Evaluación de calidad y costo de generación de contenido.
 
-📊 Resultados y Comparaciones
+📊 Resultados
 
-🔹 Comparación de respuestas generadas por diferentes estrategias de prompting.
-🔹 Análisis de costo-beneficio en el uso de la API.
-🔹 Reducción de consultas innecesarias para optimizar recursos.
-🔹 Evidencia de imágenes generadas en la carpeta images/.
+La implementación del Fast Prompting en estrategias de marketing digital ha brindado los siguientes resultados:
 
-🔍 Conclusiones
+✅ Mejora en la calidad del contenido generado: Se observó que los prompts optimizados producen textos publicitarios más atractivos y relevantes.
+✅ Mayor coherencia en la generación de contenido: El uso de Few-shot Prompting permitió que los copys fueran más alineados con el tono de la marca.
+✅ Optimización de costos y tiempo: Ajustar los prompts redujo la cantidad de iteraciones necesarias, disminuyendo el consumo de tokens en ChatGPT.
+✅ Generación visual más precisa: Los prompts mejorados en DALL-E produjeron imágenes más alineadas con la intención del usuario y necesidades de marketing.
 
-✅ La optimización de prompts mediante técnicas de Fast Prompting mejora la calidad del contenido generado.
-✅ El uso de ejemplos en los prompts (Few-shot) ofrece mejores resultados que los Zero-shot.
-✅ La reducción de consultas a la API optimiza costos sin afectar la calidad.
-✅ La personalización de prompts permite generar contenido más relevante para marketing digital.
+En general, la implementación logró cumplir con la solución esperada, ya que optimizó la generación de contenido sin perder calidad, redujo costos y mejoró la eficacia de los textos e imágenes.
+
+📌 Conclusiones
+
+A partir del desarrollo del proyecto, se concluye que:
+
+📌 Los objetivos se han logrado satisfactoriamente, ya que se demostró que una correcta optimización de prompts mejora significativamente la calidad del contenido generado por IA.
+📌 La estrategia de prompting influye directamente en el rendimiento y costos, siendo Few-shot Prompting y Chain of Thought los enfoques más efectivos en términos de calidad.
+📌 Reducir la ambigüedad en los prompts mejora la precisión de salida, tanto en textos como en imágenes, lo que permite un contenido más alineado con las necesidades del usuario.
+📌 El Fast Prompting es una herramienta clave para optimizar estrategias de marketing digital, ya que permite generar contenido de manera rápida, eficaz y a menor costo.
+
+Gracias a estos hallazgos, este enfoque puede ser aplicado en distintas áreas del marketing digital para mejorar la automatización de contenido. 🚀
 
 📜 Referencias
 
